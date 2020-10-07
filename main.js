@@ -1,3 +1,4 @@
 
-const titulo = getElementById('Titulo').value;
+
+console.log('Mensaje desde la consola');
 
